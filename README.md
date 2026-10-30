@@ -17,7 +17,7 @@
 
 🚀 **Visita y explora nuestra página web:**
 
-👉 [Gaming Zone - Ver proyecto en línea](https://bq2203.github.io/ReactT1/)
+👉 [Gaming Zone - Ver proyecto en línea](https://bq2203.github.io/T1_React/)
 
 ---
 
@@ -177,7 +177,7 @@ La aplicación se encuentra publicada mediante **GitHub Pages**, lo que permite 
 
 🔗 **Enlace del despliegue:**
 
-https://bq2203.github.io/ReactT1/
+https://bq2203.github.io/T1_React/
 
 El repositorio de GitHub permite consultar el código fuente, revisar los componentes y conocer la organización interna del proyecto.
 
