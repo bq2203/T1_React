@@ -4,8 +4,8 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vite.dev/config/
 export default defineConfig({
-  // Nombre exacto del repositorio en GitHub (https://bq2203.github.io/ReactT1/)
-  base: '/ReactT1/',
+  // Nombre exacto del repositorio en GitHub (https://bq2203.github.io//T1_React/)
+  base: '/T1_React/',
   plugins: [
     react(),
     VitePWA({
@@ -18,8 +18,8 @@ export default defineConfig({
         name: 'Mi primera PWA',
         short_name: 'MyAppPWA',
         description: 'La PWA mas fantastica del mundo',
-        scope: '/ReactT1/',
-        start_url: '/ReactT1/',
+        scope: '/T1_React/',
+        start_url: '/T1_React/',
         display: 'standalone',
         theme_color: '#000000',
 
